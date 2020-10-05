@@ -1,5 +1,5 @@
 # bitbar-nagios
-BitBar plugin to monitor a Nagios instance.
+[BitBar](https://github.com/matryer/bitbar) plugin to monitor a Nagios instance.
 
 ## Installation
 
