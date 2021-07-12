@@ -1,3 +1,5 @@
+> ⚠️ This repository is no longer maintained. Please move to [xbar-nagios](https://github.com/zessx/xbar-nagios)
+
 # bitbar-nagios
 [BitBar](https://github.com/matryer/bitbar) plugin to monitor a Nagios instance.
 
